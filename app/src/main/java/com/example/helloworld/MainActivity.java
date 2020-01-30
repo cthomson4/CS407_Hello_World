@@ -7,7 +7,8 @@ import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
 
-    ImageView imgView;
+    ImageView imgView; // added this thing
+    // Hello World - Lab 1
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
