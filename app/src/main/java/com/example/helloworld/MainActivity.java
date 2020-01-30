@@ -13,6 +13,9 @@ public class MainActivity extends AppCompatActivity {
     // Edits made on Windows Laptop
     ImageView imgView2;
 
+    // Edit 2 on Windows Laptop
+    ImageView imgView3;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
